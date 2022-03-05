@@ -1,4 +1,4 @@
-# A-Pathfinding-Visualization-
+# A-Star-Pathfinding-Visualization-
 This is a A* pathfinding algorithm and it finds a path from a source to a destination with visualization
 
 Read more about A* algorithm here - https://en.wikipedia.org/wiki/A*_search_algorithm
