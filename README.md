@@ -3,6 +3,8 @@ This is a A* pathfinding algorithm and it finds a path from a source to a destin
 
 In this algorithm I have used the A * algorithm for finding the most optimal path from source to destination
 The code is written in Python and for visualization I have used pygame, which is a open-source module for python
+
+
 STEPS ON HOW TO RUN THE CODE:
   1. As you run the program click anywhere inside the gui window and the spot will get filled with orange color, this is the starting node.
   2. Then click in the gui windows again for the end node which will be in Orange color, thus making it the end node
