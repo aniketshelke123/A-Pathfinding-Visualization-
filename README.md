@@ -2,6 +2,7 @@
 This is a A* pathfinding algorithm and it finds a path from a source to a destination with visualization
 
 Read more about A* algorithm here - https://en.wikipedia.org/wiki/A*_search_algorithm
+
 In this algorithm I have used the A * algorithm for finding the most optimal path from source to destination
 The code is written in Python and for visualization I have used pygame, which is a open-source module for python
 
